@@ -1,0 +1,41 @@
+.about > h1 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.about > p {
+  font-size: 16px;
+  margin-bottom: 4rem;
+}
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.3333%;
+}
+.about-preview > p {
+  font-size: 18px;
+}
+
+.about-preview > img {
+  width: 100%;
+  margin: auto;
+  filter: grayscale(0.7);
+}
+.about-preview {
+  flex: 1 1 24%;
+}
+.project-preview-contact {
+  text-align: center;
+  font-size: 30px;
+  background-color: lightgray;
+  padding: 0.2rem;
+}
+.project-preview-contact:hover {
+  background-color: gray;
+}
+h2 {
+  color: gray;
+  font-size: 20px;
+}
+.project-preview-name {
+  color: black;
+  font-size: 24px;
+}

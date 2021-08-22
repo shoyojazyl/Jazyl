@@ -1,0 +1,24 @@
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.logo {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.logo-br {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  letter-spacing: 4px;
+  font: 36px Segoe UI, Arial, sans-serif;
+  font-weight: 400;
+}
+.logo-br-br {
+  background-color: black;
+  opacity: 0.75;
+  padding: 7px 15px;
+}
