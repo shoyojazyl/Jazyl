@@ -9,8 +9,9 @@
   width: 100%;
   position: fixed;
   letter-spacing: 4px;
-  line-height: 1.5px;
   font: 15px verdana, sans-serif;
+  /* top: 0;
+  left: 0; */
 }
 
 a {
