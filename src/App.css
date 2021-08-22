@@ -2,3 +2,11 @@
   width: 80%;
   margin: 0 auto;
 }
+.ppp {
+  background-color: black;
+  text-align: center;
+  color: white;
+  width: 100%;
+  font-size: 16px;
+  padding: 3rem 0;
+}
